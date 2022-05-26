@@ -1,0 +1,47 @@
+.leaflet-container {
+    width:100%;
+    height: 100vh;
+
+  }
+  .Stylingfo{
+
+    display: flex;
+    justify-content: space-evenly;
+    width:30%
+  }
+  .leaflet-popup-content{
+    width:500px;
+  }
+#choice_yearly{
+  margin-left: 10px;
+}
+.k-animation-container {
+  z-index: 10003
+}
+.k-dialog-wrapper {
+  z-index: 10003
+}
+.modal-dialog{
+  display: flex ;
+  justify-content: center ;
+  max-width:100% !important;
+}
+.modal-content{
+  width:1000px  !important;
+}
+.InputSyle{
+  display:flex;
+  justify-content: center;
+}
+#textStyle{
+  display:block;
+  text-align: center;
+}
+.n-thing-header__title{
+  font-family: cursive;
+
+}
+.selection-area{
+  overflow: scroll;
+  height: 500px;
+}
