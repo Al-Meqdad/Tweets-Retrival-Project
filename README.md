@@ -17,8 +17,7 @@ Guide for the Web Application:
         1. Generating more insights for more user specifications.
         2. Generating the backend of the new insights.
 
-_________________________________________________________________________________________________________________________________________________________________________
-## TBS (To be specified)
+
 # Build and Test
 I used react framework for the front end side of this project and used python flask for the back end sdie of the project.
 main libraries used:
