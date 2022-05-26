@@ -29,7 +29,7 @@ The way I used to retrieve the exact coordinates is by creating a component that
 
 # Insights
 I added multiple features which are:
-   1.Exact tweets coordinates on the map displayed as a marker.
-   2.Bag of words with the most common words being displayed in a bigger shape.
-   3.Box-plot showing the distripution of the tweets sorted either by day, month or year.
-   4.Top ranked tweets retrived, ranked by the likes.
+   1. Exact tweets coordinates on the map displayed as a marker.
+   2. Bag of words with the most common words being displayed in a bigger shape.
+   3. Box-plot showing the distripution of the tweets sorted either by day, month or year.
+   4. Top ranked tweets retrived, ranked by the likes.
