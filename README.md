@@ -23,13 +23,13 @@ ________________________________________________________________________________
 I used react framework for the front end side of this project and used python flask for the back end sdie of the project.
 main libraries used:
    1. leaf-let: a library that allows you to display the world map with the right coordinates on ur screen, we used this library so we could be able to view the map                      and be able to retrieve tweets from a certain location.
-   2. -elastic search: we used elastic search to index the tweets we had, and helps us search for them in a much easier way through multiple queries.
+   2. elastic search: we used elastic search to index the tweets we had, and helps us search for them in a much easier way through multiple queries.
    
 The way I used to retrieve the exact coordinates is by creating a component that allows you to choose a bounding box on the map displayed by leaf-let library, then by taking both bounding box right-top corner and bottom-left corner we get all the tweets inside those coordinates using elastic search query bounding-box.
 
 # Insights
 I added multiple features which are:
-   1-Exact tweets coordinates on the map displayed as a marker.
-   2-Bag of words with the most common words being displayed in a bigger shape.
-   3-Box-plot showing the distripution of the tweets sorted either by day, month or year.
-   4-Top ranked tweets retrived, ranked by the likes.
+   1.Exact tweets coordinates on the map displayed as a marker.
+   2.Bag of words with the most common words being displayed in a bigger shape.
+   3.Box-plot showing the distripution of the tweets sorted either by day, month or year.
+   4.Top ranked tweets retrived, ranked by the likes.
